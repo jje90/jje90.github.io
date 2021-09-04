@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Projects
-description: Juliana Jaramillo Echeverri is a reseracher and economic historian.
-featured_image:
+title: Research
+subtitle:
+description: Juliana Jaramillo Echeverri is an Economic Historian working on Latin America
 ---
 
 <section class="portfolio">

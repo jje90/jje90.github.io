@@ -1,4 +1,7 @@
 ---
+permalink: /
+redirect_from:
+  - /bio
 title: Bio
 subtitle: 
 description: Juliana Jaramillo Echeverri is an Economic Historian working on Latin America

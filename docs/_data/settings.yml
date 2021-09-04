@@ -10,9 +10,9 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Bio'
-      url: '/bio'
-    - title: 'Research'
       url: '/'
+    - title: 'Research'
+      url: '/research'
     - title: 'Teaching'
       url: '/teaching/'
     - title: 'CV'
