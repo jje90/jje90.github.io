@@ -16,4 +16,6 @@ Before coming to London I was working for the research staff of the Board of Dir
 
 I hold an Msc in Economic History from the London School of Economics, and a BA in Economics from University of Antioquia in Colombia. 
 
+You can reach me by email at [j.jaramillo1@lse.ac.uk](mailto:j.jaramillo1@lse.ac.uk) or find me on [Twitter](https://twitter.com/julia_jarame).
+
 <img src="/images/juliana_headshot.jpg" width="40%">
