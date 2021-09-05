@@ -8,7 +8,7 @@ featured_image: '/images/publications.jpg'
 ## Published research
 
 6) More than One Hundred Years of Improvements in Living Standards: The Case of Colombia - joint with
-Adolfo Meisel Roca and María Teresa Ramírez, [Cliometica](https://link.springer.com/article/10.1007/s11698-018-0181-5)
+Adolfo Meisel Roca and María Teresa Ramírez, [Cliometrica](https://link.springer.com/article/10.1007/s11698-018-0181-5)
 
 5) "Central Bank Policies in Colombia during a Boom between Two Crises” (original in
 Spanish: Las políticas del Banco de la República durante un auge entre dos crisis,

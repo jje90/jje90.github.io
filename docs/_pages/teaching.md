@@ -4,7 +4,7 @@ subtitle:
 description: Juliana Jaramillo Echeverri is also a teacher
 ---
 
-During my time at LSE I was the class teacher for the following courses:
+During my time at LSE I have been the class teacher for the following courses:
  1. EH238: The Origins of growth.
  2. EC104: The Wealth (and Poverty) of Nations: Global Economic Development Past and Present (Summer school)
 
