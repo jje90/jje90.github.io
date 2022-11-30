@@ -5,7 +5,7 @@ redirect_from:
 title: Bio
 subtitle: 
 description: Juliana Jaramillo Echeverri is an Economic Historian working on Latin America
-featured_image: /images/Juliana_headshot.jpg
+featured_image: /images/juliana_headshot.jpg
 ---
 
 I am a PhD candidate from the [London School of Economics](https://www.lse.ac.uk/Economic-History/People/PhDs/Juliana-Jaramillo). 
