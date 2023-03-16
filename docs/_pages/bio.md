@@ -8,14 +8,14 @@ description: Juliana Jaramillo Echeverri is an Economic Historian working on Lat
 featured_image: /images/juliana_headshot.jpg
 ---
 
-I am a PhD candidate from the [London School of Economics](https://www.lse.ac.uk/Economic-History/People/PhDs/Juliana-Jaramillo). 
+I am a Junior Researcher at the [Central Bank of Colombia](https://investiga.banrep.gov.co/es) and I work at the Center of Regional Studies (CEER) in Cartagena, Colombia. My research focuses on the study of unequal social change in Colombia. My primary research interest is studying demographical changes, historical development and the persistence of social status in the long run. 
 
-My PhD research focuses on the study of unequal social change in Colombia, and in particular, it focuses on how social status has persisted through history for different social groups and how the rapid decline in fertility that happened in 1960 varies for different regions and groups of women in the country.
+In 2023 I obtained a PhD from the [London School of Economics](https://www.lse.ac.uk/Economic-History/People/PhDs/Juliana-Jaramillo). My PhD thesis focused on the historical persistence of social status among different groups and how the rapid decline in fertility that happened in 1960 varies for different regions and groups of women in the country.
 
-Before coming to London I was working for the research staff of the Board of Directors of the Central Bank of Colombia since 2013. During these years my research focused on impacts of [railways](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6125/be_838.pdf?sequence=1) and the [industrialization process](https://economia.uniandes.edu.co/sites/default/files/seminariocede/892.pdf) in Colombia in the first half of the twentieth century, the [History of the Central Bank](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6998/?sequence=1) and the [evolution of living standards](https://link.springer.com/article/10.1007/s11698-018-0181-5).
+My research interests also extend to the impacts of [railways](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6125/be_838.pdf?sequence=1) and the [industrialization process](https://economia.uniandes.edu.co/sites/default/files/seminariocede/892.pdf) in Colombia in the first half of the twentieth century, the [History of the Central Bank](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6998/?sequence=1) and the [evolution of living standards](https://link.springer.com/article/10.1007/s11698-018-0181-5).
 
-I hold an Msc in Economic History from the London School of Economics, and a BA in Economics from University of Antioquia in Colombia. 
+I hold an Msc in Economic History from the London School of Economics, and a BA in Economics from the University of Antioquia in Colombia. 
 
-You can reach me by email at [j.jaramillo1@lse.ac.uk](mailto:j.jaramillo1@lse.ac.uk) or find me on [Twitter](https://twitter.com/julia_jarame).
+You can reach me by email at [juliana.jaramilloe@gmail.com](mailto:juliana.jaramilloe@gmail.com) or find me on [Twitter](https://twitter.com/julia_jarame).
 
 <img src="/images/juliana_headshot.jpg" width="40%">
