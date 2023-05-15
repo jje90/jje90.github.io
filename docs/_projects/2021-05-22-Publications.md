@@ -7,7 +7,7 @@ featured_image: '/images/publications.jpg'
 ---
 ## Published research
 
-Fertility, Education and Social Mobility in 20th Century Colombia. PhD thesis, [London School of Economics and Political Science] (http://etheses.lse.ac.uk/4476/)
+Fertility, Education and Social Mobility in 20th Century Colombia. PhD thesis, [London School of Economics and Political Science](http://etheses.lse.ac.uk/4476/)
 
 More than One Hundred Years of Improvements in Living Standards: The Case of Colombia - joint with
 Adolfo Meisel Roca and María Teresa Ramírez, [Cliometrica](https://link.springer.com/article/10.1007/s11698-018-0181-5)

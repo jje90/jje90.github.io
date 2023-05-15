@@ -10,7 +10,7 @@ featured_image: /images/juliana_headshot.jpg
 
 I am a Junior Researcher at the [Central Bank of Colombia](https://investiga.banrep.gov.co/es) and I work at the Center of Regional Studies (CEER) in Cartagena, Colombia. My research focuses on the study of unequal social change in Colombia. My primary research interest is studying demographical changes, historical development and the persistence of social status in the long run. 
 
-In 2023 I obtained a PhD from the [London School of Economics](https://www.lse.ac.uk/Economic-History/People/PhDs/Juliana-Jaramillo). My PhD thesis focused on the historical persistence of social status among different groups and how the rapid decline in fertility that happened in 1960 varies for different regions and groups of women in the country.
+In 2023 I obtained a PhD from the [London School of Economics](https://www.lse.ac.uk/Economic-History/People/PhDs/Juliana-Jaramillo). My [PhD thesis](http://etheses.lse.ac.uk/4476/) focused on the historical persistence of social status among different groups and how the rapid decline in fertility that happened in 1960 varies for different regions and groups of women in the country.
 
 My research interests also extend to the impacts of [railways](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6125/be_838.pdf?sequence=1) and the [industrialization process](https://economia.uniandes.edu.co/sites/default/files/seminariocede/892.pdf) in Colombia in the first half of the twentieth century, the [History of the Central Bank](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/6998/?sequence=1) and the [evolution of living standards](https://link.springer.com/article/10.1007/s11698-018-0181-5).
 
