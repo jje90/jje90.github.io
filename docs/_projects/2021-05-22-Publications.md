@@ -29,6 +29,11 @@ Evolution of Concentration and Industrial Specialization in Colombia, 1975-2005
 Colombia, 1975-2005”) - joint with Julieth Parra, [Ensayos de Economía](https://revistas.unal.edu.co/index.php/ede/article/view/30901/30982)
 
 ## Working papers
+4. La transición de la fecundidad en Colombia: nueva evidencia regional, [Cuadernos de Historia Económica N.58](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10641/CHE_58.pdf)	
+
+
+
+3) The persistence of segregation in education: Evidence from historical elites and ethnic surnames in Colombia – joint with Andrés Álvarez, [Cuadernos de Historia Económica N.58](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10696/CHE_60.pdf)	
 
 2) What’s in a (Sur)name: Measuring the Persistence and
 Mobility of Social Status in Colombia in the Long Term. Master's dissertation, London School of Economics, 2018. 
