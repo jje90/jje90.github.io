@@ -8,7 +8,7 @@ description: Juliana Jaramillo Echeverri is an Economic Historian working on Lat
 featured_image: /images/juliana_headshot.jpg
 ---
 
-I am a Junior Researcher at the [Central Bank of Colombia](https://investiga.banrep.gov.co/es) and I work at the Center of Regional Studies (CEER) in Cartagena, Colombia. My research focuses on the study of unequal social change in Colombia. My primary research interest is studying demographical changes, historical development and the persistence of social status in the long run. 
+I am a Junior Researcher at the [Central Bank of Colombia](https://investiga.banrep.gov.co/es) and I work at the Center of Regional Studies (CEER) in Cartagena, Colombia. My research interest sits at the intersection of economic history, historical development and demography and I combined different approaches and methodologies to study historical patterns of development and the historical evolution of regional inequality in several socioeconomic outcomes beyond economic growth.
 
 In 2023 I obtained a PhD from the [London School of Economics](https://www.lse.ac.uk/Economic-History/People/PhDs/Juliana-Jaramillo). My [PhD thesis](http://etheses.lse.ac.uk/4476/) focused on the historical persistence of social status among different groups and how the rapid decline in fertility that happened in 1960 varies for different regions and groups of women in the country.
 

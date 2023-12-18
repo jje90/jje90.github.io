@@ -7,6 +7,8 @@ featured_image: '/images/publications.jpg'
 ---
 ## Published research
 
+Movilidad social en la educación: el caso de la Universidad de los Andes en Colombia entre 1949 y 2018, Análisis Político, forthcoming.
+
 Fertility, Education and Social Mobility in 20th Century Colombia. PhD thesis, [London School of Economics and Political Science](http://etheses.lse.ac.uk/4476/)
 
 More than One Hundred Years of Improvements in Living Standards: The Case of Colombia - joint with
@@ -30,9 +32,9 @@ Colombia, 1975-2005”) - joint with Julieth Parra, [Ensayos de Economía](https
 
 ## Working papers
 
-4) La transición de la fecundidad en Colombia: nueva evidencia regional, [Cuadernos de Historia Económica N.60](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10696/CHE_60.pdf)
+4) La transición de la fecundidad en Colombia: nueva evidencia regional, [Cuadernos de Historia Económica N.60](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10696/CHE_60.pdf) Revise and Resubmit Population, Space and Place
 
-3) The persistence of segregation in education: Evidence from historical elites and ethnic surnames in Colombia – joint with Andrés Álvarez, [Cuadernos de Historia Económica N.58](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10641/CHE_58.pdf)	
+3) The persistence of segregation in education: Evidence from historical elites and ethnic surnames in Colombia – joint with Andrés Álvarez, [Cuadernos de Historia Económica N.58](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10641/CHE_58.pdf) Revise and Resubmit Journal of Development Economics
 
 2) What’s in a (Sur)name: Measuring the Persistence and
 Mobility of Social Status in Colombia in the Long Term. Master's dissertation, London School of Economics, 2018. 
