@@ -7,7 +7,7 @@ featured_image: '/images/publications.jpg'
 ---
 ## Published research
 
-Movilidad social en la educación: el caso de la Universidad de los Andes en Colombia entre 1949 y 2018, Análisis Político, forthcoming.
+Movilidad social en la educación: el caso de la Universidad de los Andes en Colombia entre 1949 y 2018, [Análisis Político](https://revistas.unal.edu.co/index.php/anpol/article/view/112539)
 
 Fertility, Education and Social Mobility in 20th Century Colombia. PhD thesis, [London School of Economics and Political Science](http://etheses.lse.ac.uk/4476/)
 

@@ -6,7 +6,7 @@ description:
 featured_image: '/images/family_fertility.jpeg'
 ---
 
-##  New evidence from a regional approach
+##  Simultaneous and Widespread: Colombia’s Fertility Transition - R&R in Population, Space and Place
 Colombia experienced one of the fastest declines in fertility in the world: children per woman fell from 7 in 1960 to 3 in 1985. Despite the stark inequalities of the country, the regional character of the decline has been neglected in previous research. This paper fills this gap and brings a detailed empirical perspective of Colombia's rapid decline in fertility focusing on the sub-national level. The results show that before the fertility transition, variations in fertility patterns were linked to differences in historical legacies that derive from differences in geographical endowments. Then, I provide new estimations of fertility rates at the departmental level and for indigenous women. The results show that from 1964, fertility began to decline simultaneously in almost all regions, regardless of their traditional fertility levels. You can find a version of the most recent working paper [here](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10696/CHE_60.pdf) and a poster [here](https://www.dropbox.com/s/nbas4cp8z6zm2kq/Poster_YDC.pdf?dl=0).
 
 ## Waves of change? Radio announcements and fertility decline
