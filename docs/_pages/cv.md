@@ -17,7 +17,7 @@ B.Sc., Universidad de Antioquia, Colombia, 2013.
 Banco de la República (The Central Bank of Colombia), Centro de Estudios Economicos Regionales
 Jr Researcher, since 2022. 
 
-Department of Economic History, LSE
+Department of Economic History, LSE\\
 Graduate Teaching Assistant, 2019-2021.
 
 Banco de la República (The Central Bank of Colombia)
@@ -37,4 +37,5 @@ Associate editor, since 2023.
 ## My CV can be found here:  
 [Juliana Jaramillo Echeverri CV](https://www.dropbox.com/scl/fi/4rtik3gxibov5jisl7v72/JJE_CV.pdf?rlkey=uggqumjx97blyv04znsth0b3l&dl=0) *(updated December 2023)*
 
-## My publications can also be found on my [Google Scholar profile](https://scholar.google.co.uk/citations?hl=es&user=_9jo0UAAAAAJ)
+## My publications can also be found on my:
+[Google Scholar profile](https://scholar.google.co.uk/citations?hl=es&user=_9jo0UAAAAAJ)
