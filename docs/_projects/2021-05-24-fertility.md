@@ -1,5 +1,5 @@
 ---
-title: 'Fertility decline in Colombia'
+title: 'Fertility Decline in Colombia'
 subtitle: 'Research on the Colombian fertility transition'
 date: 2021-05-30 00:00:00
 description:
