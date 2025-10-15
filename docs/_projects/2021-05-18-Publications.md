@@ -7,6 +7,12 @@ featured_image: '/images/publications.jpg'
 ---
 ## Published research
 
+Does ancestry shape access to education? Evidence from surnames in Colombia – joint with Andrés Álvarez [Journal of Development Economics](https://doi.org/10.1016/j.jdeveco.2025.103626) 
+
+The geography of informality: the case of Colombia - joint with Karina Acosta, Daniel Lasso Jaramillo and Alejandro Sarasti-Sierra, [Spatial Economic Analysis](https://doi.org/10.1080/17421772.2025.2522807)
+
+Simultaneous and widespread: Colombia's fertility transition, [Population, Space and Place](https://doi.org/10.1002/psp.2845)
+
 Movilidad social en la educación: el caso de la Universidad de los Andes en Colombia entre 1949 y 2018, [Análisis Político](https://revistas.unal.edu.co/index.php/anpol/article/view/112539)
 
 Fertility, Education and Social Mobility in 20th Century Colombia. PhD thesis, [London School of Economics and Political Science](http://etheses.lse.ac.uk/4476/)
@@ -32,9 +38,11 @@ Colombia, 1975-2005”) - joint with Julieth Parra, [Ensayos de Economía](https
 
 ## Working papers
 
-4) La transición de la fecundidad en Colombia: nueva evidencia regional, [Cuadernos de Historia Económica N.60](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10696/CHE_60.pdf) Revise and Resubmit Population, Space and Place
+5) Waves of Change? Radio announcements and fertility decline, [Cuadernos de Historia Económica N.65](https://doi.org/10.32468/chee.65) 
 
-3) The persistence of segregation in education: Evidence from historical elites and ethnic surnames in Colombia – joint with Andrés Álvarez, [Cuadernos de Historia Económica N.58](https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/10641/CHE_58.pdf) Revise and Resubmit Journal of Development Economics
+4) Understanding the relationship between women's education and fertility decline: Evidence from Colombia, [Cuadernos de Historia Económica N.63](https://doi.org/10.32468/chee.63)
+
+3) The Decline of Child Stunting in 122 Countries: A Systematic Review of Child Growth Studies Since the Nineteenth Century – joint with Eric Schneider and other 41 coauthors, [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4888122) 
 
 2) What’s in a (Sur)name: Measuring the Persistence and
 Mobility of Social Status in Colombia in the Long Term. Master's dissertation, London School of Economics, 2018. 
