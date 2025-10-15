@@ -32,10 +32,10 @@ LSE Historical Economic Demography Group.<br>
 Research Affiliate, since 2023.
 
 ​Industrial History Review - Revista de Historia Industrial.<br>
-Associate editor, since 2023.
+Co-Editor in Chief, since 2025.
 
 #### My CV can be found here:  
-[Juliana Jaramillo Echeverri CV](https://www.dropbox.com/scl/fi/4rtik3gxibov5jisl7v72/JJE_CV.pdf?rlkey=uggqumjx97blyv04znsth0b3l&dl=0) *(updated December 2023)*
+[Juliana Jaramillo Echeverri CV](https://www.dropbox.com/scl/fi/7f900dqp7bfbi6ppgasp4/CV_JJE_2025.pdf?rlkey=2hfamlckazncdsdff4mqpng7c&st=za8tocbd&dl=0) *(updated October 2025)*
 
 #### My publications can also be found on my:
 [Google Scholar profile](https://scholar.google.co.uk/citations?hl=es&user=_9jo0UAAAAAJ)
