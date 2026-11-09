@@ -7,6 +7,10 @@ featured_image: '/images/publications.jpg'
 ---
 ## Published research
 
+Cambio demográfico y sus impactos económicos en Colombia (coord.), [Ensayos Sobre Política Económica Núm. 112](https://ideas.repec.org/a/bdr/ensayo/y2026i112p1-101.html#download)
+
+The Decline of Child Stunting in 122 Countries: A Systematic Review of Child Growth Studies Since the Nineteenth Century – joint with Eric Schneider and other 41 coauthors, [BMJ Global Health](https://gh.bmj.com/content/11/2/e018607) 
+
 Does ancestry shape access to education? Evidence from surnames in Colombia – joint with Andrés Álvarez [Journal of Development Economics](https://doi.org/10.1016/j.jdeveco.2025.103626) 
 
 The geography of informality: the case of Colombia - joint with Karina Acosta, Daniel Lasso Jaramillo and Alejandro Sarasti-Sierra, [Spatial Economic Analysis](https://doi.org/10.1080/17421772.2025.2522807)
@@ -38,11 +42,15 @@ Colombia, 1975-2005”) - joint with Julieth Parra, [Ensayos de Economía](https
 
 ## Working papers
 
-5) Waves of Change? Radio announcements and fertility decline, [Cuadernos de Historia Económica N.65](https://doi.org/10.32468/chee.65) 
+7) El desarrollo económico de Colombia desde finales de la Guerra de los Mil Días hasta la Gran Depresión - joint with María Teresa Ramírez-Giraldo, [Cuadernos de Historia Económica N.69](https://ideas.repec.org/p/bdr/cheedt/69.html)
 
-4) Understanding the relationship between women's education and fertility decline: Evidence from Colombia, [Cuadernos de Historia Económica N.63](https://doi.org/10.32468/chee.63)
+6) La Fecundidad en Colombia: Evolución Reciente y Factores Socioeconómicos Asociados - joint with Adriana Sofía Rodríguez, [Documentos de trabajo sobre Economía Regional y Urbana N.338](https://ideas.repec.org/p/bdr/region/338.html)
 
-3) The Decline of Child Stunting in 122 Countries: A Systematic Review of Child Growth Studies Since the Nineteenth Century – joint with Eric Schneider and other 41 coauthors, [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4888122) 
+5) The Elusive Domestic Revolution: Time Use and Gender Roles in Colombia - joint with Andrea Otero-Cortés, Ana María Tribín-Uribe and Marta Juanita Villaveces-Niño, [Cuadernos de Historia Económica N.66](https://ideas.repec.org/p/bdr/cheedt/66.html)
+
+4) Waves of Change? Radio announcements and fertility decline, [Cuadernos de Historia Económica N.65](https://doi.org/10.32468/chee.65) 
+
+3) Understanding the relationship between women's education and fertility decline: Evidence from Colombia, [Cuadernos de Historia Económica N.63](https://doi.org/10.32468/chee.63)
 
 2) What’s in a (Sur)name: Measuring the Persistence and
 Mobility of Social Status in Colombia in the Long Term. Master's dissertation, London School of Economics, 2018. 
