@@ -15,7 +15,7 @@ B.Sc., Universidad de Antioquia, Colombia, 2013.
 ### Employment​​
 
 Banco de la República (The Central Bank of Colombia), Centro de Estudios Economicos Regionales.<br>
-Jr Researcher, since 2022. 
+Researcher, since 2022. 
 
 Department of Economic History, LSE.<br>
 Graduate Teaching Assistant, 2019-2021.
